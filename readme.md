@@ -6,26 +6,22 @@
 _This is inspired by the mega-useful [📝 Today I Learned ](https://github.com/jbranchaud/til) repo by [Josh Branchaud](https://github.com/jbranchaud)_
 
 
+## Categories:
 
-# Categories
-
-- terminal
-- human communication
-
-
-## terminal
-
-
-## atom
-
-- [atom packages I like]
+- atom
+- cli
+- human_communication
+- nokogiri
+- rake
+- ruby
+- sinatra
+- stimulus
+- vim
 
 
-## human communication
+### Misc todos
 
+#### auto-generate readme?
 
-
-
-##### Misc todos
-
-- [auto-generate readme?](https://github.com/jbranchaud/til/issues/41)
+- Git pre-commit hook? https://github.com/jbranchaud/til/issues/41
+- Rake task that I run now-and-again? 
