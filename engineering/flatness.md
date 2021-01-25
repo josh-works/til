@@ -8,7 +8,7 @@ A good friend posted this:
 
 ![flatness_03](/images/flatness_03.jpg)
 
-https://www.instagram.com/p/CKP7uTspiA3/))
+[_source: instagram_](https://www.instagram.com/p/CKP7uTspiA3/)
 
 ### Caption:
 
