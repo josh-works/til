@@ -40,3 +40,11 @@ But this seems like a good place to start growing my regex skills.
      ?=]       # the ? argument = a literal left bracket
          .     # single "any character" "grabs" the bracket, because otherwise the look-ahead goes until it finds the bracket, but doesn't include it
 ```
+
+
+### Resources
+
+- [Rubular](https://rubular.com/)
+- [How to match “anything up until this sequence of characters” in a regular expression? (StackOverflow)](https://stackoverflow.com/questions/7124778/how-to-match-anything-up-until-this-sequence-of-characters-in-a-regular-expres)
+- [regular-expressions.info](https://www.regular-expressions.info)
+- [https://regex101.com/](https://regex101.com/)
