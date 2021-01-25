@@ -8,7 +8,7 @@ Here's how I generated some data:
 
 Download the CSV, drag it into a `/data` directory in Sinatra:
 
-TODO: Add screenshot
+![data in app](/images/loading-data-in-app.jpg)
 
 Read/sample it in the front-end:
 ```ruby
@@ -26,6 +26,32 @@ def get_random_url
 end
 ```
 
+Alternatively:
+
+```ruby
+get '/?' do
+  @random_row = get_random_row
+  erb :index, locals: { random_row: @random_row }
+end
+
+def get_random_row
+  file = File.open('data/20210124030110_4746.csv')
+  lines = file.readlines
+  lines.sample
+end
+```
+
+And in the `index.erb`, have:
+
+```html
+<div class="">
+  <%= @random_row %>
+</div>
+```
+
+Here's the results:
+
+![data in fe](/images/data-in-front-end.jpg)
 
 ### Resources
 
