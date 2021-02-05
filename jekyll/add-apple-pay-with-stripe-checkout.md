@@ -14,7 +14,7 @@ Added my domain, downloaded the file, needed to make it available at [https://jo
 
 Here's the commit: [https://github.com/josh-works/josh-works.github.io/commit/bc0455ae24b289da35ab0cb8ed74b0b81efd203a](https://github.com/josh-works/josh-works.github.io/commit/bc0455ae24b289da35ab0cb8ed74b0b81efd203a)
 
-To add the file, I had to create a `.well-known/apple-developer-merchantid-domain-association` file, and then tell Jekyll to make it available at that path, by updating `_config.yml`:
+To add the file, I had to create a `.well-known/apple-developer-merchantid-domain-association` file, and then tell Jekyll to make it available at that path, by updating `_config.yml`, per the instructions I found at [Jekyll, .well-known and other dotfiles](https://josh.st/2015/10/22/jekyll-well-known-and-dotfiles/).
 
 ```diff
 diff --git a/_config.yml b/_config.yml
