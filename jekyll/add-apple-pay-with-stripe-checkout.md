@@ -40,7 +40,22 @@ Now, I head to [https://josh.works/add-stripe-to-static-site-course#how-will-you
 
 ![it works!](/images/apple-pay.jpg)
 
-Great success
+Great success!
+
+## Google Pay
+
+Stripe Checkout supports Google Pay out-of-the-box, assuming you have the right settings checked:
+
+Head to your stripe checkout dashboard: [https://dashboard.stripe.com/settings/checkout](https://dashboard.stripe.com/settings/checkout) and make sure you've selected both `digital wallet` options:
+
+![stripe checkout settings](/images/enable-digital-wallets.jpg)
+
+If you're using Firefox, you won't see Google Pay options, but if you fire up Chrome (desktop or mobile browser):
+
+![desktop](/images/google-pay-working.jpg)
+
+
+
 
 
 
