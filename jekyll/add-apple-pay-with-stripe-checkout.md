@@ -14,6 +14,23 @@ Added my domain, downloaded the file, needed to make it available at [https://jo
 
 Here's the commit: [https://github.com/josh-works/josh-works.github.io/commit/bc0455ae24b289da35ab0cb8ed74b0b81efd203a](https://github.com/josh-works/josh-works.github.io/commit/bc0455ae24b289da35ab0cb8ed74b0b81efd203a)
 
+To add the file, I had to create a `.well-known/apple-developer-merchantid-domain-association` file, and then tell Jekyll to make it available at that path, by updating `_config.yml`:
+
+```diff
+diff --git a/_config.yml b/_config.yml
+index 6c65151..35c1c8d 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -29,12 +29,12 @@ future: true
+ twitter_username:   "josh_works"
+
+-include: ['_pages']
++include: ['_pages', '.well-known']
+
+ pages_list:
+   about: '/about'
+```
+
 ### How to test
 
 I don't use an iPhone. How do I know this is working, and can accept Apple Pay?
