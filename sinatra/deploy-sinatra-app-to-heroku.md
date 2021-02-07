@@ -32,9 +32,15 @@ run Sinatra::Application
 git push heroku main
 ```
 
+### Troubleshooting
+
 Got some ugly errors, debug with:
 
 ![heroku failed](/images/heroku-build-failed.jpg)
+
+----------
+
+in `app.rb`, be sure to `require 'sinatra'` at the top.
 
 ### Resources
 
