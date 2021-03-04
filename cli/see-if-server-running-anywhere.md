@@ -25,7 +25,7 @@ lsof -t -i :4000
 Lol, I can make a one-liner:
 
 ```
-alias jekyll_server="lsof -t -i :4000 | xargs kill & bundle exec jekyll serve --drafts --incremental"
+alias jekyll_server="lsof -t -i :4000 | xargs kill && bundle exec jekyll serve --drafts --incremental"
 ```
 
 Well, that was easy.
