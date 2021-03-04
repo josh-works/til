@@ -1,4 +1,4 @@
-# Parameterize Strings
+# Parameterize & Symbolify Strings
 
 First, the [String#parameterize](https://www.rubydoc.info/gems/activesupport/5.0.0.1/String:parameterize) method is an ActiveSupport method. It's not available by default to Ruby.
 
