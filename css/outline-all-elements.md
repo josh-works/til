@@ -3,7 +3,7 @@
 Useful for debugging:
 
 ```css
-* {
+comments {
   outline: 1px dashed red;
 }
 ```
