@@ -1,5 +1,7 @@
 # Contracts Between Parties
 
+_To see how this document has evolved over time, please view it in [githistory](https://github.githistory.xyz/josh-works/til/blob/main/golden/contracts-between-parties.md)_
+
 ## OnTap Credit Union and Buyer
 
 This document would be binding between the following parties:
