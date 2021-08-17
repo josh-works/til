@@ -2,7 +2,7 @@
 
 ```
 $ rails webpacker:install:stimulus
-$ yarn install
+$ om install
 $ bin/webpack-dev-server
 ```
 
