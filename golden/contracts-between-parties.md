@@ -43,7 +43,7 @@ Josh & Kristi Thompson, living directly across from 648 Iowa, strongly support t
 
 TBD, but I could get all these neighbors to go in:
 
-![neighborhood](/images/2021-08-17 at 4.07 PM.jpg)
+![neighborhood](/images/2021-08-17at407PM.jpg)
 
 - Joe & Trish
 - Luke & Tracy
@@ -78,7 +78,7 @@ In order to obtain the necessary relief, we're currently leaning towards:
 3. a neighborhood-wide PUD
 4. something else?
 
-![pud options](/images/2021-08-17 at 4.31 PM.jpg)
+![pud options](/images/20210817at431PM.jpg)
 
 
 
