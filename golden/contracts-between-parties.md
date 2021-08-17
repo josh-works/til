@@ -61,6 +61,25 @@ All could say something like:
 
 This reduces regulatory risk for the bank, the sellers, and the city.
 
+## Zoning Laws
+
+Some of the terms of this contract would be rendered unfulfillable because of modern zoning regulations regarding:
+
+- minimum parking requirements
+- minimum lot size requirements
+- maximum floor-area ratios
+
+More specific details will be ironed out in the future, but in general, the neighbors and involved parties support how this might need to unfold, and don't want it held up by running afoul of certain laws and rules. 
+
+In order to obtain the necessary relief, we're currently leaning towards:
+
+1. A lot-wide PUD
+2. A corner-encompasing PUD
+3. a neighborhood-wide PUD
+4. something else?
+
+![pud options](/images/2021-08-17 at 4.31 PM.jpg)
+
 
 
 
