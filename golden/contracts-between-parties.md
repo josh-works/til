@@ -6,8 +6,8 @@ _To see how this document has evolved over time, please view it in [githistory](
 
 This document would be binding between the following parties:
 
-- OnTap Credit Union, hereby "the bank", "the financial institution"
-- the buyers: Laura, Merlin, and Tanya, residing at 648 Iowa St, Golden, CO 
+- [OnTap Credit Union](https://www.ontapcu.org/), hereby "the bank", "the financial institution"
+- the buyers: Laura, Merlin, and Tanya, residing at [648 Iowa St, Golden, CO](https://www.zillow.com/homedetails/648-Iowa-St-Golden-CO-80403/13709768_zpid/)
 
 Referencing the property at:
 
