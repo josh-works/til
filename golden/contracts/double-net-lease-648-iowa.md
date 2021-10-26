@@ -1,5 +1,7 @@
 # Term sheet for double net lease on 648 Iowa
 
+_For reasons explained [here](https://github.com/josh-works/til/blob/main/golden/contracts/why-track-contracts-publicly-in-git.md), I like to track important documents in a version control system. Git/github is my VCS of choice._
+
 - Josh Thompson will have a double lease of 648 Iowa, from Rodney Jones.
 - Rodney will pay water and property taxes and insurance at $2750pcm. 
 - Every month, by the 30th of the prior month, Josh will have payment of $2750 for Rodney
