@@ -45,3 +45,4 @@ I also have a handy URL I can send to someone to get their thoughts on what I've
 ### Resources
 
 - [https://www.kalzumeus.com/essays/dropping-hashes/](https://www.kalzumeus.com/essays/dropping-hashes/)
+- [Provenance (Wikipedia)](https://en.wikipedia.org/wiki/Provenance)
