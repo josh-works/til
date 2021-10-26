@@ -13,6 +13,23 @@ This document specifies the terms of a Call option on 648 Iowa, purchased by Jos
 - expiration: one year (same as term)
 - settlement terms: When Josh Thompson or an Agent on his behalf tenders $899,000 to Rodney Jones, Rodney will deliver the asset to Josh Thompson
 
+# Signatures
+
+Josh Thompson, purchaser
+
+Signature: \________________
+
+Date:      \________________
+
+
+Rodney Jones, seller
+
+Signature: \_______________
+
+Date:      \_______________
+
+### Notes
+
 I wrote this document to model how Wikipedia defines an option:
 
 > A financial option is a contract between two counterparties with the terms of the option specified in a term sheet. Option contracts may be quite complicated; however, at minimum, they usually contain the following specifications:[8]
