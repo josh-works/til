@@ -1,10 +1,10 @@
 # :memo: TIL
 
-> Today I Learned
-
+> Today I Learned, or TIL: Often used as a space saver on websites such as Reddit or DIGG when writing the titles of links to interesting things the submitter has learned that day.
 
 _This is inspired by the mega-useful [📝 Today I Learned ](https://github.com/jbranchaud/til) repo by [Josh Branchaud](https://github.com/jbranchaud)_
 
+I'm sticking all sorts of learnings here. Much of it related to software, but certainly not all of it. 
 
 ## Categories:
 
