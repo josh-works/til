@@ -12,7 +12,7 @@ Contracts count as historical documents.
 
 Git is a "version control system" that (among other things) allows a character-by-character understanding of how a document has changed over time.
 
-For example, I'm working on a certain kind of legal document called a "Planned Unit Design" document. I have a draft that is public, which I use to solicit comments and feedback, here: []()
+For example, I'm working on a certain kind of legal document called a "Planned Unit Design" document. I have a draft that is public, which I use to solicit comments and feedback, here: [https://josh.works/pud](https://josh.works/pud)
 
 I will be asking people to sign a petition indicating their agreement, and the language on that petition will be, more or less:
 
