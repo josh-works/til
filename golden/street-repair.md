@@ -14,7 +14,9 @@ Get pictures/examples
 
 Yellow and white tape options. Probably get roll of each and compare?
 
-#### [Durable Grade Road Marking Tape](https://stop-painting.com/durable-grade-highway-road-tape/)
+#### Durable Grade Road Marking Tape
+
+[Durable Grade Road Marking Tape (stop-painting.com)](https://stop-painting.com/durable-grade-highway-road-tape/)
 
 Expensive, but high-quality. 
 
