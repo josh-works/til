@@ -1,16 +1,10 @@
-# Street Repair
+# Street/intersection/mobility network repair in Golden
 
 ## Striping Concrete
 
-What are the standard dimensions/patterns we should plan on? 
-
-1 yellow line, whole length of Iowa? 
-
-2 yellow lines?
-
 ### Planning checklist
 
-- [ ] Get pictures/examples of other road striping in Golden
+- [ ] Get pictures/examples of other road striping in Golden 
 - [ ] Test application of tape, check for durability
 - [ ] proper measurements of distance, ensure we have adequate supplies
 
@@ -31,3 +25,9 @@ Expensive, but high-quality.
 [Armadillo Yellow Heavy Duty Reflective Parking Stripe Tape for High Impact Area 3 Inch x 36 Foot Roll](https://www.amazon.com/Armadillo-Yellow-Reflective-Parking-Stripe/dp/B072JR4V2N)
 
 3"x36ft = $60
+
+------------------
+
+## Ford Street Vehicle Speed
+
+TODO
