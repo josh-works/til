@@ -8,7 +8,11 @@ What are the standard dimensions/patterns we should plan on?
 
 2 yellow lines?
 
-Get pictures/examples
+### Planning checklist
+
+- [ ] Get pictures/examples of other road striping in Golden
+- [ ] Test application of tape, check for durability
+- [ ] proper measurements of distance, ensure we have adequate supplies
 
 ### Product options
 
