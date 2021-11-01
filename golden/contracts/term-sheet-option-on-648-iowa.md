@@ -6,12 +6,18 @@ This document specifies the terms of a Call option on 648 Iowa, purchased by Jos
 
 - purchaser: Josh Thompson, current joint owner of 621 Iowa St, and his wife, Kristin Thompson
 - Cost of option: $5000
-- Term: one calendar year
+- Term: 12 months, starting 01 Nov 2021, until 31 Oct 2022
 - Right to buy: Josh Thompson has the right to buy 648 Iowa for the term
 - Strike price: $899,000
-- quantity/class: Full ownership of all rights to, or related to, 648 Iowa
-- expiration: one year (same as term)
-- settlement terms: When Josh Thompson or an Agent on his behalf tenders $899,000 to Rodney Jones, Rodney will deliver the asset to Josh Thompson
+- quantity/class: 
+  1. Full ownership of all rights to, or related to, 648 Iowa
+  2. Tied to Double Net Lease on 648 Iowa at $2750/mo ([Double Net Lease Contract here](https://github.com/josh-works/til/blob/main/golden/contracts/double-net-lease-648-iowa.md))
+- expiration: 31 Oct 2022
+- settlement terms: 
+  - When Josh Thompson or an Agent on his behalf tenders $899,000 to Rodney Jones, Rodney will deliver the asset to Josh Thompson
+  - Josh Thompson will cover fees related to sale
+  - Both parties will use a transaction broker, or Rodney himself, so there will be no normal multi-percentage-point real estate agent fees
+
 
 # Signatures
 
