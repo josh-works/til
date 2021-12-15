@@ -1,5 +1,7 @@
 # Term sheet for one-year call option on 648 Iowa
 
+_note: This document was signed via Docusign by Josh and Rodney 11/03/2021, PDF attached below_
+
 _For reasons explained [here](https://github.com/josh-works/til/blob/main/golden/contracts/why-track-contracts-publicly-in-git.md), I like to track important documents in a version control system. Git/github is my VCS of choice._
 
 This document specifies the terms of a Call option on 648 Iowa, purchased by Josh Thompson from Rodney Jones, the owner.
@@ -23,16 +25,12 @@ This document specifies the terms of a Call option on 648 Iowa, purchased by Jos
 
 Josh Thompson, purchaser
 
-Signature: \________________
-
-Date:      \________________
+Signature: \________________          Date:      \________________
 
 
 Rodney Jones, seller
 
-Signature: \_______________
-
-Date:      \_______________
+Signature: \________________           Date:      \________________
 
 ### Notes
 
@@ -52,3 +50,5 @@ I wrote this document to model how Wikipedia defines an option:
 
 - [Option (finance)](https://en.wikipedia.org/wiki/Option_(finance))
 - [Term Sheet](https://en.wikipedia.org/wiki/Term_sheet)
+- [PDF-friendly of this contract (Google Docs)](https://docs.google.com/document/d/1raoNnxfZmEioF2WQY-wWrqboIdugsHl9Xa1HY_8kLC0/edit#)
+- [PDF as generated via Docusign after Josh and Rodney signed](/pdfs/DocuSign_Term_sheet_for_one-year_call.pdf)
