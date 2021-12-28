@@ -17,10 +17,12 @@ Make sure to have:
 ```ruby
 # Gemfile
 source 'https://rubygems.org'
-ruby "2.6.6"
+ruby "2.5.8"
 
 gem 'sinatra'
 gem 'json'
+gem 'pry'
+gem 'livereload'
 ```
 Create `config.ru`, add:
 ```
@@ -30,6 +32,10 @@ run Sinatra::Application
 ```
 ```
 git push heroku main
+```
+```
+
+bundle lock --add-platform x86_64-linux
 ```
 
 ### Troubleshooting
