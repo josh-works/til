@@ -45,6 +45,22 @@ I wrote this document to model how Wikipedia defines an option:
 >     the settlement terms, for instance whether the writer must deliver the actual asset on exercise, or may simply tender the equivalent cash amount
 >     the terms by which the option is quoted in the market to convert the quoted price into the actual premium – the total amount paid by the holder to the writer
 
+### Money and Signatures
+
+Here's the signed document. Me via my laptop, Rodney via Docusign: [signed PDF](/pdfs/DocuSign_Term_sheet_for_one-year_call.pdf)
+
+It is attached to a $5k check, deposited in OnTap credit union (along with double net lease stuff). A few pictures via text, as rodney and I are handshake-dealing on this, so not super concerned. He's got a ton of other real estate stuff going on, the money from this property is trivial, he's just (very kindly) trying to help me kick the tires on [this crazy project](https://josh.works/pud), and i'm able to help him and others out as well. 
+
+![text deposits](/golden/contracts/images/rodney-texts.jpg)
+
+Here's the deposit slip I sent rodney after depositing the $5k for the NNN and rent for that month (longer story). 
+
+![deposit slip](/golden/contracts/images/deposit-slip.jpg)
+
+
+
+<!-- add photos of cashed check, closeup of what I sent rodney -->
+
 
 ### Resources
 

@@ -10,7 +10,7 @@ _For reasons explained [here](https://github.com/josh-works/til/blob/main/golden
 - As this double net lease and call option on the house is very related to the [Planned Unit Design](https://josh.works/pud) document Josh is working on, Rodney will formally attest (in writing) that he supports Josh's efforts. This will probably look like Rodney adding his name to a petition Josh will soon make available. 
 - All income and other utilities would move to Josh, who would have the option to rent the other rooms, garage land, etc.
 - Repairs would be at Josh's cost
-
+- double net lease has the same beginning/ending terms as the call option (Nov 1, 2021-Oct 31, 2022)
 
 
 # Signatures
