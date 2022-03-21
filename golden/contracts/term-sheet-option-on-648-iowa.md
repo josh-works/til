@@ -67,4 +67,4 @@ TODO: Add at least one of the pictures of the checks + deposit
 - [Option (finance)](https://en.wikipedia.org/wiki/Option_(finance))
 - [Term Sheet](https://en.wikipedia.org/wiki/Term_sheet)
 - [PDF-friendly of this contract (Google Docs)](https://docs.google.com/document/d/1raoNnxfZmEioF2WQY-wWrqboIdugsHl9Xa1HY_8kLC0/edit#)
-- [PDF as generated via Docusign after Josh and Rodney signed](/pdfs/DocuSign_Term_sheet_for_one-year_call.pdf)
+- [SIGNED VIA DOCUSIGN, Josh and Rodney](/pdfs/DocuSign_Term_sheet_for_one-year_call.pdf)
