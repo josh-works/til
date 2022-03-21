@@ -28,6 +28,45 @@ Signature: \_______________
 
 Date:      \_______________
 
+# Verbal Handshake deal/evidence
+
+The above didn't get signed, but more-or-less worked out the same as the call option.
+
+## Evidence
+
+I'd planned on uploading/marking here records for the payments, time-stamped in Github, as [demonstration of provenence](https://www.kalzumeus.com/essays/dropping-hashes/). Bank statements function as the same, etc. 
+
+The property, when running at capacity with three additional rented-out rooms to rotating tenants, was generating $2750/mo.
+
+In various ways, three of those rooms emptied out, and I, Josh, suggested/agreed to filling the gap in rent, so the current tenants could avoid paying more (they didn't have more to spend) and could have the luxurious stability of not having strangers and untrusted people on the property regularly. 
+
+I doubt I'll update this document monthly, but as of 2022-03-20 here's where we stand:
+
+| Month | Josh Paid Rodney | L&T&M Paid Rodney | 
+|---|---|---|
+Nov 2021 | $1575 | $1175
+Dec 2021 | $1575 | $1175
+Jan 2022 | $1575 | $1175
+Feb 2022 | $1575 | $1175
+March 2022 | $1575 | $1175
+April 2022 | $0 | $0
+May 2022 | $0 | $0
+June 2022 | $0 | $0
+July 2022 | $0 | $0
+August 2022 | $0 | $0
+September 2022 | $0 | $0
+
+I'm planning on continuing my payments, of course, until coming up with something better. My wife and I both work in tech. [Software developers in Denver are doing just fine](https://www.glassdoor.com/Salaries/denver-software-engineer-salary-SRCH_IL.0,6_IM234_KO7,24.htm), so this monthly outlay is simultaneously _shockingly huge_ and _trivial_ at the same time. I always think in dollars-per-hour and dollars-per-month. A $100k/yr salary is ~$50/hr at 40hrs/week, or $8300/mo (pretax. lolsob.)
+
+I'll add evidence similar to the term sheet. I hope to use similar document-provenence-processes for other contracts going forward.
+
+This is to "buy time" for the [financial product](https://josh.works/collateralizing-financial-products-with-present-value-of-rent-flow) and/or [rezoning project](https://josh.works/pud). 
+
+Each month, I drop off a check and three money orders at Rodney's account.
+
+I've usually been current/early, sometimes life has me a few days late. It's been NBD. Rodney's been a dream. Extremely easy to work with, happy to try very unconventional things. A consumate professional. 
+
+
 
 ### Resources
 

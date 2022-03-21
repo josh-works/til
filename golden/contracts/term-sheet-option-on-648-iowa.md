@@ -53,13 +53,13 @@ It is attached to a $5k check, deposited in OnTap credit union (along with doubl
 
 ![text deposits](/golden/contracts/images/rodney-texts.jpg)
 
-Here's the deposit slip I sent rodney after depositing the $5k for the NNN and rent for that month (longer story). 
+Here's the deposit slip I sent rodney after depositing the $5k for the NNN and rent for that month, as explained here: https://github.com/josh-works/til/blob/main/golden/contracts/double-net-lease-648-iowa.md. 
 
 ![deposit slip](/golden/contracts/images/deposit-slip.jpg)
 
 
 
-<!-- add photos of cashed check, closeup of what I sent rodney -->
+TODO: Add at least one of the pictures of the checks + deposit
 
 
 ### Resources
